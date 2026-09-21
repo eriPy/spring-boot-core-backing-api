@@ -10,7 +10,7 @@ This project was built to implement complex security flows in a financial contex
 *   **Spring Boot** (Web, Security, Data JPA)
 *   **JSON Web Tokens (JWT)** (io.jsonwebtoken)
 *   **Redis** (Spring Data Redis) for rate-limiting and temporary state.
-*   **MySQL/PostgreSQL** (via Hibernate/JPA)
+*   **PostgreSQL** (via Hibernate/JPA)
 *   **Swagger / OpenAPI 3** for API documentation.
 
 ## Structure
